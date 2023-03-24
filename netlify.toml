@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/apisix/*"
-  to = "http://139.217.190.60/apisix/:splat"
+  to = "http://127.0.0.1/apisix/:splat"
   status = 200
 
 [[redirects]]
