@@ -15,5 +15,5 @@
  * limitations under the License.
  */
 export default {
-  'component.rawDataEditor.tip': '目前暂不支持编辑',
+  'component.rawDataEditor.tip': '目前暫不支援編輯',
 };

@@ -15,15 +15,15 @@
  * limitations under the License.
  */
 export default {
-  'page.service.steps.stepTitle.basicInformation': '基本信息',
-  'page.service.steps.stepTitle.pluginConfig': '插件配置',
-  'page.service.steps.stepTitle.preview': '预览',
-  'page.service.list': '服务列表',
+  'page.service.steps.stepTitle.basicInformation': '基本資訊',
+  'page.service.steps.stepTitle.pluginConfig': '外掛配置',
+  'page.service.steps.stepTitle.preview': '預覽',
+  'page.service.list': '服務列表',
   'page.service.description':
-    '服务由路由中公共的插件配置、上游目标信息组合而成。服务与路由、上游关联，一个服务可对应一组上游节点、可被多条路由绑定。',
-  'page.service.fields.name.required': '请输入服务名称',
+    '服務由路由中公共的外掛配置、上游目標資訊組合而成。服務與路由、上游關聯，一個服務可對應一組上游節點、可被多條路由繫結。',
+  'page.service.fields.name.required': '請輸入服務名稱',
   'page.service.fields.hosts': '域名',
-  'page.service.fields.hosts.placeholder': '请输入服务域名',
-  'page.service.create': '创建服务',
-  'page.service.configure': '配置服务',
+  'page.service.fields.hosts.placeholder': '請輸入服務域名',
+  'page.service.create': '建立服務',
+  'page.service.configure': '配置服務',
 };

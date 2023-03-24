@@ -15,10 +15,10 @@
  * limitations under the License.
  */
 export default {
-  'page.plugin.drawer.popconfirm.title.delete': '确定删除该插件吗？',
-  'page.plugin.list': '插件列表',
-  'page.plugin.list.enabled': '已启用插件的列表',
-  'page.plugin.market.config': '全局插件列表',
-  'page.plugin.edit': '配置插件成功',
-  'page.plugin.delete': '删除插件成功',
+  'page.plugin.drawer.popconfirm.title.delete': '確定刪除該外掛嗎？',
+  'page.plugin.list': '外掛列表',
+  'page.plugin.list.enabled': '已啟用外掛的列表',
+  'page.plugin.market.config': '全域性外掛列表',
+  'page.plugin.edit': '配置外掛成功',
+  'page.plugin.delete': '刪除外掛成功',
 };

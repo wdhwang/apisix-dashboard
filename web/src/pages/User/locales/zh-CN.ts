@@ -16,16 +16,16 @@
  */
 
 export default {
-  'component.user.login': '登录',
-  'component.user.loginMethodPassword': '账号密码登录',
-  'component.user.loginMethodPassword.username': '账号',
-  'component.user.loginMethodPassword.password': '密码',
-  'component.user.loginMethodPassword.inputUsername': '请输入账号！',
-  'component.user.loginMethodPassword.inputPassword': '请输入密码！',
-  'component.user.loginMethodPassword.incorrectPassword': '账号或密码错误',
-  'component.user.loginMethodPassword.fieldInvalid': '请检查账号和密码',
-  'component.user.loginMethodPassword.success': '登录成功',
-  'component.user.loginMethodPassword.changeDefaultAccount': '如何修改默认账户和密码？',
+  'component.user.login': '登入',
+  'component.user.loginMethodPassword': '賬號密碼登入',
+  'component.user.loginMethodPassword.username': '賬號',
+  'component.user.loginMethodPassword.password': '密碼',
+  'component.user.loginMethodPassword.inputUsername': '請輸入賬號！',
+  'component.user.loginMethodPassword.inputPassword': '請輸入密碼！',
+  'component.user.loginMethodPassword.incorrectPassword': '賬號或密碼錯誤',
+  'component.user.loginMethodPassword.fieldInvalid': '請檢查賬號和密碼',
+  'component.user.loginMethodPassword.success': '登入成功',
+  'component.user.loginMethodPassword.changeDefaultAccount': '如何修改預設賬戶和密碼？',
   'component.user.loginMethodPassword.modificationMethod':
-    '请修改 /api/conf/conf.yaml 文件中 users 字段',
+    '請修改 /api/conf/conf.yaml 檔案中 users 欄位',
 };

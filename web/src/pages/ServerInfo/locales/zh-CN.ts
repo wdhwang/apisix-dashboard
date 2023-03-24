@@ -15,10 +15,10 @@
  * limitations under the License.
  */
 export default {
-  'page.systemStatus.pageContainer.title': '系统信息',
-  'page.systemStatus.select.placeholder': '请选择节点',
-  'page.systemStatus.desc': '需启用相关插件，才能获取信息。',
-  'page.systemStatus.link': '如何启用？',
+  'page.systemStatus.pageContainer.title': '系統資訊',
+  'page.systemStatus.select.placeholder': '請選擇節點',
+  'page.systemStatus.desc': '需啟用相關外掛，才能獲取資訊。',
+  'page.systemStatus.link': '如何啟用？',
   'page.systemStatus.dashboardInfo': 'Dashboard',
-  'page.systemStatus.nodeInfo': 'APISIX 节点',
+  'page.systemStatus.nodeInfo': 'APISIX 節點',
 };

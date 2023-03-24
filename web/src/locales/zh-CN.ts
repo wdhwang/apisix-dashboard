@@ -29,11 +29,11 @@ import settings from './zh-CN/setting';
 import settingDrawer from './zh-CN/settingDrawer';
 
 export default {
-  'navBar.lang': '语言',
-  'layout.user.link.help': '帮助',
-  'layout.user.link.privacy': '隐私',
-  'layout.user.link.terms': '条款',
-  'app.preview.down.block': '下载此页面到本地项目',
+  'navBar.lang': '語言',
+  'layout.user.link.help': '幫助',
+  'layout.user.link.privacy': '隱私',
+  'layout.user.link.terms': '條款',
+  'app.preview.down.block': '下載此頁面到本地專案',
   ...globalHeader,
   ...menu,
   ...settingDrawer,

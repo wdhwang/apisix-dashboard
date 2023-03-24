@@ -15,8 +15,8 @@
  * limitations under the License.
  */
 export default {
-  'app.pwa.offline': '当前处于离线状态',
-  'app.pwa.serviceworker.updated': '有新内容',
-  'app.pwa.serviceworker.updated.hint': '请点击“刷新”按钮或者手动刷新页面',
-  'app.pwa.serviceworker.updated.ok': '刷新',
+  'app.pwa.offline': '當前處於離線狀態',
+  'app.pwa.serviceworker.updated': '有新內容',
+  'app.pwa.serviceworker.updated.hint': '請點選“重新整理”按鈕或者手動重新整理頁面',
+  'app.pwa.serviceworker.updated.ok': '重新整理',
 };

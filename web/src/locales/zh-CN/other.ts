@@ -15,5 +15,5 @@
  * limitations under the License.
  */
 export default {
-  'other.global': '全局',
+  'other.global': '全域性',
 };

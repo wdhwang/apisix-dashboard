@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 export default {
-  'page.dashboard.empty.description.grafanaNotConfig': '您还未配置 Grafana',
-  'page.dashboard.button.grafanaConfig': '现在配置',
-  'page.dashboard.tip': '使用浏览器 localStorage 存储监控页访问地址，仅作用于本地。',
+  'page.dashboard.empty.description.grafanaNotConfig': '您還未配置 Grafana',
+  'page.dashboard.button.grafanaConfig': '現在配置',
+  'page.dashboard.tip': '使用瀏覽器 localStorage 儲存監控頁訪問地址，僅作用於本地。',
 };
